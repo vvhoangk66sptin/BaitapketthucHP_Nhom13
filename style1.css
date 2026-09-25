@@ -6,6 +6,8 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url(images/brdau.png);
+  background-size: cover;
+  background-position: center;
 }
 
 .login {
